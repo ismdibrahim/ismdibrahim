@@ -10,3 +10,4 @@ I have built/customized more than 435 WordPress & Shopify websites. I love to do
 |![ALT](https://github-profile-stats-prod-ux-74.vercel.app/api?username=ismdibrahim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)|![ALT](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=ismdibrahim&layout=compact&theme=buefy&hide_border=true)|
 |-|-|
 
+[![Readme Card](https://github-profile-stats-prod-ux-74.vercel.app/api/pin/?username=ismdibrahim&repo=oop-in-php)](https://github.com/ismdibrahim/oop-in-php)
