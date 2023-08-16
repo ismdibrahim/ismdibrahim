@@ -12,7 +12,4 @@ You can find more about me.
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismdibrahim/)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://mdibrahim.net/)
 
-|![ALT](https://github-profile-stats-prod-ux-74.vercel.app/api?username=ismdibrahim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)|![ALT](https://github-profile-stats-prod-ux-74.vercel.app/api/top-langs/?username=ismdibrahim&layout=compact&theme=buefy&hide_border=true)|
-|-|-|
 
-[![Readme Card](https://github-profile-stats-prod-ux-74.vercel.app/api/pin/?username=ismdibrahim&repo=oop-in-php)](https://github.com/ismdibrahim/oop-in-php) [![Readme Card](https://github-profile-stats-prod-ux-74.vercel.app/api/pin/?username=ismdibrahim&repo=Remove-Woocommerce-Tabs)](https://github.com/ismdibrahim/Remove-Woocommerce-Tabs)
